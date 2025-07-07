@@ -1,9 +1,10 @@
 import java.sql.*;
 
 public class DatabaseManager {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/locker_system";
-    private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "root"; // Change to your MySQL password
+    private static final String DB_URL = "jdbc:mysql://<host>:<port>/<database_name>"; // Change your DB_URL("jdbc:mysql://localhost:3306/locker_system")
+)
+    private static final String DB_USER = "DB_USER"; // Change your DataBase user
+    private static final String DB_PASSWORD = "DB_PASSWORD"; // Change to your MySQL password
     
     private static Connection connection;
     
