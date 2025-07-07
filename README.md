@@ -6,7 +6,7 @@ This repository contains the complete source code and setup instructions for the
 
 ## 📦 Source Code Location
 
-👉 All Java files and SQL scripts are located inside the [`sourcecode/`](./sourcecode) folder.
+👉 All Java files and SQL scripts are located inside the [`SourceCode/`](./SourceCode) folder.
 
 Please navigate there for:
 
