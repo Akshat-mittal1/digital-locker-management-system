@@ -31,8 +31,11 @@ A secure and user-friendly Java desktop application to manage personal locker it
 ## 📁 Project Structure
 
 Digital_Locker_Management_System/
+
 ├── *.java ← Java source files
+
 ├── locker_system_db_setup.sql ← SQL database setup script
+
 ├── bin/ ← Compiled class files (auto-created)
 
 ---
