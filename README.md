@@ -32,3 +32,5 @@ Install MySQL Connector/J
 Set up your local MySQL database as per the SQL script
 
 ## 👨‍💻 Author : [akshat-mittal1](https://github.com/akshat-mittal1)
+
+## Contributer : [Cynalors](https://github.com/cynaloras)
